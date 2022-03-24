@@ -1,8 +1,8 @@
 body {
-    background-color: #e96c6c;
+    background-color: #ffc2c2;
 
 }
-container{
+.container{
 
     width: 80%;
     margin: auto;
@@ -10,6 +10,7 @@ container{
 
 h1{
     text-align: center;
+    color: brown;
 }
 
 img{
@@ -21,4 +22,20 @@ img{
 figure {
 
     text-align: center;
+}
+
+.imgtopo{
+width: 100%;
+}
+
+.imgcorpo{
+    width: 50%;
+}
+
+p{
+    font-size: 2em;
+    color: rgb(235, 30, 30);
+    font-weight: bold;
+    text-indent: 50px;
+    text-align: justify;
 }
