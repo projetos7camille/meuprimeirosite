@@ -50,4 +50,12 @@ p{
     margin-left: 100px;
     background-color: rgb(236, 201, 220);
   }
+footer{
+    background-color: hotpink;
+}
+#sobre{
+    behavior: smooth;
+}
+#mais{
+    behavior: smooth;
 }
